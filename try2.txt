@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 trial 2 of git commands
+=======
+trial 2 of git commands
+changes in program
+changes in program
+>>>>>>> dev
